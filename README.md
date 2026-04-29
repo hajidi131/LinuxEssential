@@ -1,4 +1,4 @@
 # LinuxEssential
-##File System Structure
-##Device Administration
+# File System Structure
+# Device Administration
 
